@@ -23,3 +23,8 @@ Demo: [https://oli.show/wine](https://oli.show/wine)
 This project is licensed under the MIT License.
 However, I spent quite some time on collecting and cleaning the data.
 Please include a link to this repository if you use it.
+
+
+## Related Projects
+
+[Great Wine Visualization](https://apple.github.io/embedding-atlas/demo/index.html)
